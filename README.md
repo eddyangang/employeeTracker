@@ -4,6 +4,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [License](#license)
+- [Usage](#usage)
 - [Test](#test)
 - [Preview](#preview)
 
@@ -29,6 +30,12 @@ in the appropriate directory.
 
 ## License
 MIT license
+
+## Usage 
+
+This application keeps track of employee using IDs to correlate the employee with the their role and department follwing this schematic:
+
+![schematic](schema.png)
 
 ## Test
 
